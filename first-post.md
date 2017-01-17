@@ -9,4 +9,4 @@ Anyway, I am a sophomore at LASA High School, which opens me up to a lot of Comp
 **Thanks for reading, I hope to continue posting and delevoping!**
 
 * * *
-[Click here if you would like to return to the main page.](home.md)
+[Click here if you would like to return to the main page.](index.md)
