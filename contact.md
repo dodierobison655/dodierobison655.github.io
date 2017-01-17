@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: contact
 ---
 
 You can contact me through email:
