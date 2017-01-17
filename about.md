@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 ---
 
 Hello, I’m Deral Robison, and this is my new blog. I want to learn more about github, and programming as well,
