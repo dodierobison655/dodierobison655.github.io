@@ -8,4 +8,4 @@ I feel this will be a great experience when it comes to making various projects 
 easily accessable, and also composing and writing my thoughts and techniques I have while creating projects.
 
 * * *
-[Click here if you would like to return to the main page.](home.md)
+[Click here if you would like to return to the main page.](index.md)
