@@ -7,7 +7,7 @@ layout: default
 ZapMath is a math-based browser game, the first legitimate game I've made.
 Check it out at [zapmath.deralrobison.com](http://zapmath.deralrobison.com/)
 
-[read more...](first-post.md).
+[read more...](ZapPost.md).
 
 * * *
 
