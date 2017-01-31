@@ -31,8 +31,8 @@ Check it out at [zapmath.deralrobison.com](http://zapmath.deralrobison.com/)
 **21 January 2017**
 
 Hello, I'm Deral Robison, and this is my new blog. I want to learn more about github, 
-and programming as well, so I will use the website for organizing my projects, and 
-maybe for technical blogging once I feel comfortable with it.
+and programming as well, so I will use the website as a combination of technical and 
+personal blogging.
 
 [read more...](first-post.md).
 
