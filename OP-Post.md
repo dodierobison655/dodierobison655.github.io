@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: OP-Post
 ---
 
   As we enter 2017, I find myself scolding my naivety and quick tendencies to accept whatever media is presented to me, 
