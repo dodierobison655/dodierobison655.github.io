@@ -17,7 +17,7 @@ what I'm told on principal.
 
 # [](#header-1)ZapMath
 
-**27 January 2017**
+**27 January 2017** (Technical)
 
 ZapMath is a math-based browser game, the first legitimate game I've made.
 Check it out at [zapmath.deralrobison.com](http://zapmath.deralrobison.com/)
