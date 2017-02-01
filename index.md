@@ -19,7 +19,7 @@ what I'm told on principal.
 
 **27 January 2017** 
 
-*  Technical
+(Technical)
 
 ZapMath is a math-based browser game, the first legitimate game I've made.
 Check it out at [zapmath.deralrobison.com](http://zapmath.deralrobison.com/)
