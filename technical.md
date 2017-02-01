@@ -1,5 +1,5 @@
 ---
-layout : technical
+layout: technical
 ---
 
 
