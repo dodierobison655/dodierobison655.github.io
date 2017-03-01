@@ -9,7 +9,7 @@ layout: default
 (Technical)
 
 PaintBlitz is a canvas browser game with a race to get to your matching circle.
-Check it out at [zapmath.deralrobison.com](http://zapmath.deralrobison.com/)
+Check it out at [paintblitz.deralrobison.com](http://paintblitz.deralrobison.com/)
 
 [read more...](pbpost.md).
 
