@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# [](#header-1)PaintBlitz
+
+**1 March 2017** 
+
+(Technical)
+
+PaintBlitz is a canvas browser game with a race to get to your matching circle.
+Check it out at [zapmath.deralrobison.com](http://zapmath.deralrobison.com/)
+
+[read more...](pbpost.md).
+
+* * *
+
 # [](#header-1)Perpetual Skepticism
 
 **31 January 2017**
