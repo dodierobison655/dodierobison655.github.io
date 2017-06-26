@@ -8,7 +8,7 @@ layout: default
 (Technical)
 
 Rock, Paper, Scissors. Enough said.
-[Click here to play](rockpaperscissors.deralrobison.com)
+rockpaperscissors.deralrobison.com
 
 * * *
 
@@ -19,7 +19,7 @@ Rock, Paper, Scissors. Enough said.
 (Technical)
 
 PaintBlitz is a canvas browser game with a race to get to your matching circle.
-[Click here to play](paintblitz.deralrobison.com)
+paintblitz.deralrobison.com
 
 [read more...](pbpost.md).
 
@@ -32,7 +32,7 @@ PaintBlitz is a canvas browser game with a race to get to your matching circle.
 (Technical)
 
 ZapMath is a math-based browser game, the first legitimate game I've made.
-[Click here to play](zapmath.deralrobison.com)
+zapmath.deralrobison.com
 
 [read more...](ZapPost.md).
 
