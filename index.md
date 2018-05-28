@@ -26,19 +26,6 @@ Check it out at [paintblitz.deralrobison.com](http://paintblitz.deralrobison.com
 
 * * *
 
-# [](#header-1)Perpetual Skepticism
-
-**31 January 2017**
-
-Living in a world of second-guessing is tough, but it is the reality we face
-on a day-to-day basis. Everything we consume from the media to politics is 
-selectively fed to us, and I feel responsible not to blindly enjoy/follow 
-what I'm told on principal.
-
-[read more...](OP-Post.md).
-
-* * *
-
 # [](#header-1)ZapMath
 
 **27 January 2017** 
